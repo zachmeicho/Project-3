@@ -16,12 +16,9 @@ Who are our competitors and what are they doing? What makes them successful? Wha
 
 ***Deliverable:*** SWOT Analysis 
 
-### Information Architecture
-The content of the site needs to organized in order to enable users to find information and complete tasks. In order to do this, you need to understand how the pieces of the site fit together to create the larger picture. 
-
-***Deliverable:*** Site Map
-
 ### Wireframes
+The content of the site needs to organized in order to enable users to find information and complete tasks. In order to do this, you need to understand how the pieces of the site fit together to create the larger picture.
+
 We are going to shift from prescriptive wireframes to a more content focused wireframe. Identify and list all of the content that will be on the page, and arrange it in a way that conveys hierarchy. 
 ![Spreadsheet](https://bigmedium.com/bm.pix/oreilly-spreadsheet-firstcol.orig-2000.png)
 ![Wireframes](https://bigmedium.com/bm.pix/oreilly-pseudocode.orig-2000.png)
